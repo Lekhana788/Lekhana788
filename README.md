@@ -14,7 +14,6 @@
 
 Hi — I'm **Lekhana L**, a confident and driven Full Stack Developer (Fresher) building modern, maintainable web apps. I create technical content across YouTube, Medium and Instagram to share what I learn and help others level up.
 
-- 🎥 Content creator: YouTube, Medium, Instagram
 - 🔭 I love turning ideas into polished user experiences
 - ⚡ I learn fast, ship often, and enjoy collaborative projects
 - 🎮 Fun: avid problem-solver, coffee enthusiast, and playlist curator
@@ -80,9 +79,6 @@ Hi — I'm **Lekhana L**, a confident and driven Full Stack Developer (Fresher) 
 Feel free to reach out — always open to collaborations and learning opportunities.
 
 - LinkedIn: https://www.linkedin.com/in/lekhana-l-99b143287
-- YouTube: https://www.youtube.com/@Lekhana788
-- Medium: https://medium.com/@Lekhana788
-- Instagram: https://instagram.com/Lekhana788
 
 ---
 
