@@ -64,19 +64,13 @@ Hi — I'm **Lekhana L**, a passionate and curious learner currently building my
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lekhana788&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekhana788&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lekhana788&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<!-- External GitHub stats cards are temporarily disabled because the hosting service is unavailable. -->
 
 ---
 
 ## GitHub Trophies
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lekhana788&theme=onedark&margin-w=10&row=1" alt="Trophies" />
-</p>
+<!-- External trophy cards are temporarily disabled because the hosting service is unavailable. -->
 
 ---
 
