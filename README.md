@@ -62,17 +62,6 @@ Hi — I'm **Lekhana L**, a passionate and curious learner currently building my
 
 ---
 
-## GitHub Stats
-
-<!-- External GitHub stats cards are temporarily disabled because the hosting service is unavailable. -->
-
----
-
-## GitHub Trophies
-
-<!-- External trophy cards are temporarily disabled because the hosting service is unavailable. -->
-
----
 
 ## Visitor Counter
 
