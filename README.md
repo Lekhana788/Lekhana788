@@ -27,25 +27,33 @@ Hi — I'm **Lekhana L**, a confident and driven Full Stack Developer (Fresher) 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### Backend
+### Backend / Languages
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Data Structures](https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge)](#)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SAP ABAP](https://img.shields.io/badge/SAP-ABAP-0F6CBD?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/abap.html)
+
+### Analytics / Data
+
+[![Data Analytics](https://img.shields.io/badge/Data%20Analytics-FF6B6B?style=for-the-badge)](#)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 
 ### Tools
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lekhana788)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)](https://www.eclipse.org/)
+[![SQL Workbench/J](https://img.shields.io/badge/SQL%20Workbench%2FJ-4D4D4D?style=for-the-badge)](https://www.sql-workbench.eu/)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://www.cursor.com/)
+[![Lovable](https://img.shields.io/badge/Lovable-8A2BE2?style=for-the-badge)](https://lovable.dev/)
+[![Windsurf](https://img.shields.io/badge/Windsurf-1E1E1E?style=for-the-badge)](https://windsurf.com/)
 
 ---
 
 ## Social Media
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Lekhana788)
-[![Medium](https://img.shields.io/badge/Medium-@Lekhana788-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Lekhana788)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Lekhana788)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekhana-l-99b143287)
 
 ---
