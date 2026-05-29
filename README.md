@@ -12,11 +12,12 @@
 
 ## About Me
 
-Hi — I'm **Lekhana L**, a confident and driven Full Stack Developer (Fresher) building modern, maintainable web apps. I create technical content across YouTube, Medium and Instagram to share what I learn and help others level up.
+Hi — I'm **Lekhana L**, a passionate and curious learner currently building my path as a Full Stack Developer, Data Analyst, SAP ABAP Developer, and Software Engineer. I enjoy working with code, data, and problem-solving, and I’m always eager to improve my skills through hands-on projects and continuous learning.
 
-- 🔭 I love turning ideas into polished user experiences
-- ⚡ I learn fast, ship often, and enjoy collaborative projects
-- 🎮 Fun: avid problem-solver, coffee enthusiast, and playlist curator
+- 💡 I enjoy turning ideas into practical solutions
+- 📊 I’m interested in data, analytics, and structured problem solving
+- 🧩 I like exploring Java, SQL, SAP ABAP, and modern development tools
+- 🚀 I’m a fresher with strong ambition, consistency, and a willingness to grow
 
 ---
 
