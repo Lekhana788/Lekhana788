@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="wave" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+beautiful+and+performant+web+apps+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Analyst;SAP+ABAP+Developer;Software+Engineer" alt="Typing SVG" />
 </p>
 
 ---
