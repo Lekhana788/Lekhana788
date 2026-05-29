@@ -62,6 +62,11 @@ Hi — I'm **Lekhana L**, a passionate and curious learner currently building my
 
 ---
 
+## GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lekhana788&theme=tokyonight" alt="GitHub Streak" />
+
+---
 
 ## Visitor Counter
 
